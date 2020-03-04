@@ -1,0 +1,8 @@
+
+{
+  "web": {
+    "baseUrl": "https://some-url",
+    "username": "username",
+    "password": "passwrd"
+  }
+}
